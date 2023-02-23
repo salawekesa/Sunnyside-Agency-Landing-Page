@@ -82,7 +82,7 @@ header #btn {
   text-align: center;
   display: flex;
   color: hsl(0deg, 0%, 100%);
-  font-size: 24px;
+  font-size: 36px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -97,6 +97,7 @@ header #btn {
 @media (max-width: 640px) {
   .hero {
     padding: 0;
+    font-size: 18px;
   }
   .hero img {
     height: 150px;
