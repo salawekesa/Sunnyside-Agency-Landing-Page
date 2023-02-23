@@ -81,10 +81,11 @@ header #btn {
 .hero {
   text-align: center;
   display: flex;
+  color: hsl(0deg, 0%, 100%);
+  font-size: 24px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 2px solid red;
   flex-grow: 1;
 }
 .hero img {

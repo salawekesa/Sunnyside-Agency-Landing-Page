@@ -112,12 +112,13 @@ header{
 .hero{
     text-align: center;
     display: flex;
+    color: $White;
+    font-size: 24px;
     // height: 100vh ;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     // padding-bottom: 8rem;
-    border: 2px solid red;
     flex-grow: 1;
     
     img{
